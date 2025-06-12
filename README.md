@@ -11,8 +11,9 @@ Resources and code exercises about Svelte.
 
 ## YouTube
 
-- [@SvelteSociety](https://www.youtube.com/@SvelteSociety)
+- [Svelte Society](https://www.youtube.com/@SvelteSociety)
 - [Svelte Summit Spring 2025](https://www.youtube.com/playlist?list=PL8bMgX1kyZThKy_B41FQHk_xsHMQouV1Z)
+- [SlateDevelopment](https://www.youtube.com/@SlateDevelopment)
 
 ### Training
 
