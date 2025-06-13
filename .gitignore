@@ -137,4 +137,5 @@ dist
 
 # System Files
 .Identifier
+:Zone.Identifier
 .DS_Store
