@@ -1,5 +1,7 @@
 # Svelte Training
 
+![Svelte Training](./svelte-training.avif "Svelte Training")
+
 Resources and code exercises about Svelte.
 
 ## Documentation
