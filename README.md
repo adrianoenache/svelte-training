@@ -29,7 +29,7 @@ Resources and code exercises about Svelte.
 
 ## But why learn Svelte?
 
-I believe that the decision need to be taken based on data. Take a look on the frameworks benchmark by yourself.
+I believe that decision need to be taken based on data. Take a look on the frameworks benchmark by yourself.
 
 - [JS framework benchmark](https://github.com/krausest/js-framework-benchmark)
 - [Official results for js web frameworks benchmark](https://krausest.github.io/js-framework-benchmark/index.html)
